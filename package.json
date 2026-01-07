@@ -1,8 +1,8 @@
 {
-  "name": "TED-BOT",
+  "name": "vt_bot",
   "version": "0.2",
   "description": "🤖 Bot personalizado usando Baileys",
-  "author": "tedzinho",
+  "author": "vtzinho",
   "license": "MIT",
   "main": "temux.js",
   "scripts": {
